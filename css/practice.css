@@ -23,10 +23,30 @@ h3 {
 color: #164183;
 }
 
+.main-section {
+    margin: 0 40px;
+}
+
+.main-sections{
+    text-align: center;
+ 
+}
+
+.image-whitbarrow{
+   padding: 5px;
+   display: inline-block;
+
+
+}
+
 
 
 
 /* Footer section */
 .tele-number {
     color: red;
+}
+.footer-section {
+    margin: 0 40px;
+    text-align: center;
 }
