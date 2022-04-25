@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #158221;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.intro-para {
+   color: #4499F1;
+   text-align: center;
+}
