@@ -1,57 +1,78 @@
 body {
-    margin: 0;
-    font-family: 'Josefin Sans', sans-serif;
+  margin: 0;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 p {
-    padding: 10px;
+  padding: 10px;
+  text-align: center;
 }
-
 
 /* Introduction section */
 header {
-    background-color: #158221;
-    color: white;
-    padding: 20px;
-    text-align: center;
+  background-color: #158221;
+  color: white;
+  padding: 20px;
+  text-align: center;
 }
 
-
 /* Main section */
+
+main {
+  text-align: center;
+}
+
+.sites-button {
+  border: #074780 solid 4px;
+  background-color: #9ae0a2;
+  font-family: "Josefin Sans", sans-serif;
+  padding: 6px;
+  width: 190px;
+  height: 30px;
+  cursor: pointer;
+}
+
+  .sites-button:hover {
+    background-color: #158221;
+    color: white;
+  }
+}
 .intro-para {
-   color: #074780;
-   text-align: center;
+  color: #074780;
+  /* text-align: center; */
 }
 
 h3 {
-color: #164183;
-padding: 5px;
+  color: #164183;
+  padding: 5px;
 }
 
 .main-section {
-    margin: 0 40px;
+  margin: 0 40px;
 }
 
-.main-sections{
-    text-align: center;
- 
+.main-sections {
+  /* text-align: center; */
 }
 
-.image-whitbarrow{
-   padding: 5px;
-   display: inline-block;
-
-
+.images-whitbarrow {
+  margin: auto;
 }
 
+.image-whitbarrow {
+  padding: 5px;
+  display: inline-block;
+}
 
-
+.image-whitbarrow {
+  margin: 0 60px;
+}
 
 /* Footer section */
 .tele-number {
-    color: red;
+  color: red;
 }
 .footer-section {
-    margin: 0 40px;
-    text-align: center;
+  margin: 0 40px;
+  text-align: center;
 }
