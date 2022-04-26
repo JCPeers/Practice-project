@@ -28,18 +28,17 @@ main {
   font-family: "Josefin Sans", sans-serif;
   padding: 6px;
   width: 190px;
-  height: 30px;
+  height: 60px;
   cursor: pointer;
 }
 
-  .sites-button:hover {
-    background-color: #158221;
-    color: white;
-  }
+.sites-button:hover {
+  background-color: #158221;
+  color: white;
 }
+
 .intro-para {
   color: #074780;
-  /* text-align: center; */
 }
 
 h3 {
@@ -64,9 +63,23 @@ h3 {
   display: inline-block;
 }
 
+.images-facilities {
+  display: inline-block;
+  margin: auto;
+}
+
+.image-facilities {
+  width: 200px;
+  height: 150px;
+}
+
 .image-whitbarrow {
   margin: 0 60px;
 }
+/* .mini-golf {
+  width: 275px;
+  height: 183px;
+} */
 
 /* Footer section */
 .tele-number {
