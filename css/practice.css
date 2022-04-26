@@ -3,6 +3,10 @@ body {
     font-family: 'Josefin Sans', sans-serif;
 }
 
+p {
+    padding: 10px;
+}
+
 
 /* Introduction section */
 header {
@@ -21,6 +25,7 @@ header {
 
 h3 {
 color: #164183;
+padding: 5px;
 }
 
 .main-section {
