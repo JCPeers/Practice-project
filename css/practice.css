@@ -33,17 +33,12 @@ main {
 }
 
 .sites-button:hover {
-  background-color: #158221;
-  color: white;
+  background-color: #a4e5ac;
+  color: darkolivegreen;
 }
 
 .intro-para {
   color: #074780;
-}
-
-h3 {
-  color: #164183;
-  padding: 5px;
 }
 
 .main-section {
@@ -51,7 +46,8 @@ h3 {
 }
 
 .main-sections {
-  /* text-align: center; */
+  color: #164183;
+  padding: 5px;
 }
 
 .images-whitbarrow {
@@ -70,9 +66,28 @@ h3 {
 }
 
 .image-facilities {
-  width: 200px;
-  height: 150px;
+  width: 250px;
+  height: 200px;
   margin: 0 10px;
+}
+
+.card {
+  background-color: #a4e5ac;
+  color: white;
+  margin: 50px 0;
+}
+.cards-cont {
+  height: auto;
+  width: auto;
+}
+
+.options {
+  color: white;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  color: darkolivegreen;
+  padding: 20px;
 }
 
 /* Footer section */
