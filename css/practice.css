@@ -61,6 +61,7 @@ h3 {
 .image-whitbarrow {
   padding: 5px;
   display: inline-block;
+  margin: 0 60px;
 }
 
 .images-facilities {
@@ -71,15 +72,8 @@ h3 {
 .image-facilities {
   width: 200px;
   height: 150px;
+  margin: 0 10px;
 }
-
-.image-whitbarrow {
-  margin: 0 60px;
-}
-/* .mini-golf {
-  width: 275px;
-  height: 183px;
-} */
 
 /* Footer section */
 .tele-number {
