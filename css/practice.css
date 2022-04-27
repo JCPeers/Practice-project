@@ -76,10 +76,6 @@ main {
   color: white;
   margin: 50px 0;
 }
-.cards-cont {
-  height: auto;
-  width: auto;
-}
 
 .options {
   color: white;
@@ -89,7 +85,23 @@ main {
   color: darkolivegreen;
   padding: 20px;
 }
+.sites-btn {
+  padding: 10px 15px;
+  border-radius: 10px;
+  border: #074780 solid 4px;
+  background-color: #9ae0a2;
+  font-family: "Josefin Sans", sans-serif;
+  cursor: pointer;
+}
 
+.sites-btn:hover {
+  background-color: #a4e5ac;
+  color: darkolivegreen;
+}
+
+.space-bottom {
+  margin-bottom: 25px;
+}
 /* Footer section */
 .tele-number {
   color: red;
